@@ -38,11 +38,6 @@
           "name": "LuminAI",
           "desc": "Talk with luminai",
           "path": "/ai/luminai?text="
-        }.
-        {
-          "name": "YanzGPT",
-          "desc": "Talk with yanzgpt",
-          "path": "/ai/yanzgpt?text="
         }
       ]
     },
