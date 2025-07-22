@@ -42,6 +42,16 @@
       ]
     },
     {
+      "name": "Downloader",
+      "items": [
+        {
+          "name": "Tiktok",
+          "desc": "download video from tiktok",
+          "path": "/download/ttdl?url="
+        }
+      ]
+    },
+    {
       "name": "Search Tools",
       "items": [
         {
