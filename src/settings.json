@@ -47,7 +47,7 @@
         {
           "name": "Insta And Tiktok",
           "desc": "download video from tiktok and ig",
-          "path": "/download/instattdl?url="
+          "path": "/download/instattdl?platform=url="
         }
       ]
     },
