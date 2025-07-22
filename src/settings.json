@@ -14,7 +14,7 @@
     }
   },
   "apiSettings": {
-    "creator": "Bynn"
+    "creator": "aBynn"
   },
   "links": [
     {
@@ -45,9 +45,9 @@
       "name": "Downloader",
       "items": [
         {
-          "name": "Tiktok",
-          "desc": "download video from tiktok",
-          "path": "/download/ttdl?url="
+          "name": "Insta And Tiktok",
+          "desc": "download video from tiktok and ig",
+          "path": "/download/instattdl?url="
         }
       ]
     },
