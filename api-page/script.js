@@ -14,7 +14,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const dynamicImage = document.getElementById('dynamicImage');
         if (dynamicImage) {
-            dynamicImage.src = randomImageSrc;
+            dynamicImage.src = '/banner.png';
 
             const setImageSize = () => {
                 const screenWidth = window.innerWidth;
@@ -205,3 +205,4 @@ document.addEventListener("DOMContentLoaded", () => {
         body.classList.remove("no-scroll");
     }, 2000);
 });
+                
