@@ -37,6 +37,17 @@
             "text": "Text message for the AI to respond to"
           }
         }
+          {
+  "name": "AI Custom",
+  "desc": "Chatbot AI dengan nama, logic, dan message custom",
+  "path": "/ai/aicustom?name=&logic=&message=",
+  "status": "ready",
+  "params": {
+    "name": "Nama karakter AI (opsional)",
+    "logic": "Instruksi atau personality AI",
+    "message": "Pesan yang ingin dikirim ke AI"
+  }
+        },
       ]
     },
     {
