@@ -1,5 +1,5 @@
 {
-  "name": "Raol Api'S",
+  "name": "Free Api'S",
   "version": "v5.1.1",
   "description": "Simple and easy to use API documentation.",
   "maintenance": {
@@ -11,16 +11,16 @@
     "status": "Online"
   },
   "apiSettings": {
-    "creator": "RaolByte",
+    "creator": "Abinn",
     "requireApikey": false,
     "apikey": {
       "demo": {
         "rateLimit": "5000/day",
-        "enabled": true
+        "enabled": false
       },
       "admin": {
         "rateLimit": "unlimited",
-        "enabled": true
+        "enabled": false
       }
     }
   },
